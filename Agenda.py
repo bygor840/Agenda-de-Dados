@@ -35,7 +35,7 @@ while True:
     elif opcao == "4":
         remover_contato()
     elif opcao == "5":
-        print("Até logo!")
+        print("Até mais!")
         break
     else:
         print("Opção inválida.")
